@@ -127,17 +127,4 @@ thinking like a developer.
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, students,
-builders and people working on interesting ideas.
-
-📧 **Email:** your-email@example.com
-
-💼 **LinkedIn:** Your LinkedIn
-
-🌐 **Portfolio:** Your Portfolio
-
----
-
 ⭐ Feel free to explore my repositories and see what I'm building.
